@@ -1,0 +1,36 @@
+.jqcbxgoglemap_info{
+  padding: 10px;
+  max-width: 300px;
+
+  .jqcbxgoglemap_info_heading{
+    width: 100%;
+    display: block;
+    clear: bottom;
+    margin: 0 !important;
+    text-transform: uppercase !important;
+
+    font-size: 16px !important;
+    line-height: 1.2 !important;
+
+    a{
+      font-size: inherit !important;
+      line-height: inherit !important;
+      text-decoration: none !important;
+      border-bottom: none !important;
+
+      &:hover{
+        text-decoration: none !important;
+        border-bottom: none !important;
+      }
+    }
+  }
+
+  .jqcbxgoglemap_info_body{
+    width: 100%;
+    display: block;
+    clear: bottom;
+    font-size: 13px !important;
+    line-height: 1.2 !important;
+    margin-top: 10px !important;
+  }
+}

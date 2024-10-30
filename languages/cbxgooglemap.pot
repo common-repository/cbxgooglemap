@@ -1,0 +1,767 @@
+#, fuzzy
+msgid ""
+msgstr ""
+"POT-Creation-Date: 2024-02-26 14:33+0000\n"
+"Language: \n"
+"Plural-Forms: nplurals=INTEGER; plural=EXPRESSION;\n"
+"PO-Revision-Date: YEAR-MO-DA HO:MI+ZONE\n"
+"X-Generator: Loco https://localise.biz/"
+
+#. %s template
+#: includes/cbxgooglemap-tpl-loader.php:75
+#, php-format
+msgid "%s does not exist."
+msgstr ""
+
+#: templates/admin/dashboard.php:194
+msgid "Access our Premium Support"
+msgstr ""
+
+#: includes/class-cbxgooglemap-helper.php:97
+msgid "Add New"
+msgstr ""
+
+#: includes/class-cbxgooglemap-helper.php:96
+msgid "Add New map"
+msgstr ""
+
+#: includes/class-cbxgooglemap-helper.php:266
+#: widgets/elementor-elements/class-cbxgooglemap-elemwidget.php:277
+#: widgets/classic-widgets/views/admin.php:139
+msgid "Address"
+msgstr ""
+
+#: admin/class-cbxgooglemap-admin.php:123
+msgid "Api Key"
+msgstr ""
+
+#: includes/class-cbxgooglemap-helper.php:779
+msgid "Built in post types"
+msgstr ""
+
+#: admin/class-cbxgooglemap-admin.php:1111
+msgid "CBX Blocks"
+msgstr ""
+
+#: widgets/classic-widgets/class-cbxgooglemap-widget.php:29
+#: widgets/classic-widgets/class-cbxgooglemap-widget.php:62
+#: widgets/classic-widgets/class-cbxgooglemap-widget.php:173
+#: widgets/vc-element/class-cbxgooglemap-wpbwidget.php:46
+msgid "CBX Google Map"
+msgstr ""
+
+#: widgets/classic-widgets/class-cbxgooglemap-widget.php:32
+#: widgets/vc-element/class-cbxgooglemap-wpbwidget.php:47
+msgid "CBX Google Map Widget"
+msgstr ""
+
+#: admin/class-cbxgooglemap-admin.php:509
+#: templates/admin/metabox_shortcode.php:21
+msgid "CBX GoogleMaps Shortcode Copy"
+msgstr ""
+
+#: widgets/elementor-elements/class-cbxgooglemap-elemwidget.php:38
+#: widgets/elementor-elements/class-cbxgooglemap-elemwidget.php:106
+msgid "CBX Map"
+msgstr ""
+
+#. Name of the plugin
+msgid "CBX Map for Google Map & OpenStreetMap"
+msgstr ""
+
+#: includes/class-cbxgooglemap.php:373
+#, php-format
+msgid ""
+"CBX Map for Google Map & OpenStreetMap Pro has extended features and more "
+"controls, <a style=\"color: #6648fe !important; font-weight: bold;\" "
+"target=\"_blank\" href=\"%s\">try it</a>  - Codeboxr Team"
+msgstr ""
+
+#: admin/class-cbxgooglemap-admin.php:908
+msgid "CBX Map Settings"
+msgstr ""
+
+#: admin/class-cbxgooglemap-admin.php:904
+#: includes/class-cbxgooglemap-helper.php:92
+msgid "CBX Maps"
+msgstr ""
+
+#: templates/admin/dashboard.php:19
+msgid "CBX Maps - Helps & Updates"
+msgstr ""
+
+#: templates/admin/settings-display.php:28
+msgid "CBX Maps - Settings"
+msgstr ""
+
+#: templates/admin/dashboard.php:215
+msgid "CBX Maps Plugin Information"
+msgstr ""
+
+#: widgets/vc-element/class-cbxgooglemap-wpbwidget.php:50
+msgid "CBX Widgets"
+msgstr ""
+
+#: admin/class-cbxgooglemap-admin.php:283
+msgid "CBX WP Map Settings"
+msgstr ""
+
+#: templates/admin/dashboard.php:74
+msgid "Changelog"
+msgstr ""
+
+#: includes/class-cbxgooglemap.php:319 includes/class-cbxgooglemap.php:337
+#, php-format
+msgid ""
+"Check <a style=\"color: #6648fe !important; font-weight: bold;\" href=\"%s\" "
+"target=\"_blank\">Documentation</a> | Create <a style=\"color: #6648fe !"
+"important; font-weight: bold;\" href=\"%s\" target=\"_blank\">Map</a>"
+msgstr ""
+
+#: includes/class-cbxgooglemap.php:424
+#, php-format
+msgid ""
+"Check how to <a style=\"color:#9c27b0 !important; font-weight: bold;\" "
+"href=\"%s\"><strong>Update manually</strong></a> , download the latest "
+"version from <a style=\"color:#9c27b0 !important; font-weight: bold;\" "
+"href=\"%s\"><strong>My Account</strong></a> section of Codeboxr.com"
+msgstr ""
+
+#: includes/class-cbxgooglemap-settings.php:486
+msgid "Choose File"
+msgstr ""
+
+#: widgets/elementor-elements/class-cbxgooglemap-elemwidget.php:135
+#: widgets/vc-element/class-cbxgooglemap-wpbwidget.php:59
+msgid "Choose predefined map or create from custom attributes below"
+msgstr ""
+
+#: widgets/elementor-elements/class-cbxgooglemap-elemwidget.php:119
+#: widgets/elementor-elements/class-cbxgooglemap-elemwidget.php:131
+#: widgets/vc-element/class-cbxgooglemap-wpbwidget.php:29
+#: widgets/classic-widgets/views/admin.php:44
+msgid "Choose Ready Map or Use custom params"
+msgstr ""
+
+#: admin/class-cbxgooglemap-admin.php:912
+msgid "Choose saved map or create from custom attributes below"
+msgstr ""
+
+#: admin/class-cbxgooglemap-admin.php:509
+#: templates/admin/metabox_shortcode.php:21
+msgid "Click to copy"
+msgstr ""
+
+#. Author of the plugin
+msgid "Codeboxr"
+msgstr ""
+
+#: templates/admin/dashboard.php:244
+msgid "Codeboxr News Updates"
+msgstr ""
+
+#: public/class-cbxgooglemap-public.php:365
+msgid "Codeboxr Widgets"
+msgstr ""
+
+#: admin/class-cbxgooglemap-admin.php:509
+#: templates/admin/metabox_shortcode.php:21
+msgid "Copied"
+msgstr ""
+
+#: includes/class-cbxgooglemap.php:350
+msgid ""
+"Currently installed <strong>CBX Map for Google Map & OpenStreetMap Pro "
+"Addon</strong> version 1.0.5(or earlier) is not compatible with the latest "
+"version of core plugin CBX Map for Google Map & OpenStreetMap V1.1.12 or "
+"later. - Codeboxr Team"
+msgstr ""
+
+#: admin/class-cbxgooglemap-admin.php:913
+#: widgets/elementor-elements/class-cbxgooglemap-elemwidget.php:151
+#: widgets/vc-element/class-cbxgooglemap-wpbwidget.php:69
+#: widgets/vc-element/class-cbxgooglemap-wpbwidget.php:78
+#: widgets/vc-element/class-cbxgooglemap-wpbwidget.php:87
+#: widgets/vc-element/class-cbxgooglemap-wpbwidget.php:96
+#: widgets/vc-element/class-cbxgooglemap-wpbwidget.php:105
+#: widgets/vc-element/class-cbxgooglemap-wpbwidget.php:114
+#: widgets/vc-element/class-cbxgooglemap-wpbwidget.php:127
+#: widgets/vc-element/class-cbxgooglemap-wpbwidget.php:140
+#: widgets/vc-element/class-cbxgooglemap-wpbwidget.php:153
+#: widgets/vc-element/class-cbxgooglemap-wpbwidget.php:162
+#: widgets/vc-element/class-cbxgooglemap-wpbwidget.php:171
+#: widgets/vc-element/class-cbxgooglemap-wpbwidget.php:180
+#: widgets/vc-element/class-cbxgooglemap-wpbwidget.php:189
+#: widgets/classic-widgets/views/admin.php:59
+msgid "Custom Map Attributes"
+msgstr ""
+
+#: admin/class-cbxgooglemap-admin.php:88
+msgid "Default Config"
+msgstr ""
+
+#: admin/class-cbxgooglemap-admin.php:163
+msgid "Default height 300 as px, put any numeric value."
+msgstr ""
+
+#: admin/class-cbxgooglemap-admin.php:155
+msgid ""
+"Default is 100% to make the map responsive, if you want any fixed width then "
+"don't put, % or just put numeric value, don't px with numeric value"
+msgstr ""
+
+#: admin/class-cbxgooglemap-admin.php:145
+msgid "Default Zoom Level"
+msgstr ""
+
+#: admin/class-cbxgooglemap-admin.php:92
+msgid "Demo & Shortcodes"
+msgstr ""
+
+#: admin/class-cbxgooglemap-admin.php:176
+#: admin/class-cbxgooglemap-admin.php:190
+#: includes/class-cbxgooglemap-helper.php:225
+#: includes/class-cbxgooglemap-helper.php:238
+#: widgets/elementor-elements/class-cbxgooglemap-elemwidget.php:230
+#: widgets/elementor-elements/class-cbxgooglemap-elemwidget.php:243
+#: widgets/vc-element/class-cbxgooglemap-wpbwidget.php:124
+#: widgets/vc-element/class-cbxgooglemap-wpbwidget.php:137
+#: widgets/classic-widgets/views/admin.php:110
+#: widgets/classic-widgets/views/admin.php:118
+msgid "Disable"
+msgstr ""
+
+#. Description of the plugin
+msgid "Easy responsive embed of google map and openstreet map"
+msgstr ""
+
+#: includes/class-cbxgooglemap-helper.php:98
+msgid "Edit map"
+msgstr ""
+
+#: admin/class-cbxgooglemap-admin.php:175
+#: admin/class-cbxgooglemap-admin.php:189
+#: includes/class-cbxgooglemap-helper.php:224
+#: includes/class-cbxgooglemap-helper.php:237
+#: widgets/elementor-elements/class-cbxgooglemap-elemwidget.php:229
+#: widgets/elementor-elements/class-cbxgooglemap-elemwidget.php:242
+#: widgets/vc-element/class-cbxgooglemap-wpbwidget.php:123
+#: widgets/vc-element/class-cbxgooglemap-wpbwidget.php:136
+#: widgets/classic-widgets/views/admin.php:109
+#: widgets/classic-widgets/views/admin.php:117
+msgid "Enable"
+msgstr ""
+
+#: admin/class-cbxgooglemap-admin.php:171
+#: includes/class-cbxgooglemap-helper.php:219
+msgid "Enable/disable mouse scroll whell"
+msgstr ""
+
+#: admin/class-cbxgooglemap-admin.php:821
+msgid "Free Support"
+msgstr ""
+
+#: templates/admin/dashboard.php:36
+msgid "Get Free & Pro Addons"
+msgstr ""
+
+#: templates/admin/dashboard.php:23
+msgid "Go to Settings"
+msgstr ""
+
+#: admin/class-cbxgooglemap-admin.php:115
+msgid "Google Map"
+msgstr ""
+
+#: admin/class-cbxgooglemap-admin.php:124
+msgid "Google map api key"
+msgstr ""
+
+#: public/class-cbxgooglemap-public.php:181
+msgid "Google Map Api Key is invalid or empty. Please set in plugin setting."
+msgstr ""
+
+#: admin/class-cbxgooglemap-admin.php:1024
+#: widgets/classic-widgets/class-cbxgooglemap-widget.php:79
+#: widgets/elementor-elements/class-cbxgooglemap-elemwidget.php:329
+msgid "Google Map Api Key is invalid!"
+msgstr ""
+
+#: includes/class-cbxgooglemap-helper.php:421
+#, php-format
+msgid ""
+"Google map api key missing, alternative openstreet map can be enabled from "
+"<a href=\"%s\" target=\"_blank\">global setting</a>"
+msgstr ""
+
+#: admin/class-cbxgooglemap-admin.php:139
+#: includes/class-cbxgooglemap-helper.php:194
+#: widgets/elementor-elements/class-cbxgooglemap-elemwidget.php:169
+msgid "Google Map only"
+msgstr ""
+
+#: includes/class-cbxgooglemap-helper.php:260
+msgid "Heading title will be used for marker pop info"
+msgstr ""
+
+#: admin/class-cbxgooglemap-admin.php:162
+#: includes/class-cbxgooglemap-helper.php:211
+#: widgets/elementor-elements/class-cbxgooglemap-elemwidget.php:206
+#: widgets/elementor-elements/class-cbxgooglemap-elemwidget.php:208
+#: widgets/vc-element/class-cbxgooglemap-wpbwidget.php:102
+#: widgets/classic-widgets/views/admin.php:93
+msgid "Height"
+msgstr ""
+
+#: admin/class-cbxgooglemap-admin.php:919
+msgid "Height(only Numeric)"
+msgstr ""
+
+#: templates/admin/dashboard.php:182
+msgid "Help & Supports"
+msgstr ""
+
+#: admin/class-cbxgooglemap-admin.php:287
+msgid "Helps & Updates"
+msgstr ""
+
+#: admin/class-cbxgooglemap-admin.php:222
+msgid "Hide"
+msgstr ""
+
+#: admin/class-cbxgooglemap-admin.php:218
+msgid "Hide Leaflet Branding"
+msgstr ""
+
+#. Author URI of the plugin
+msgid "https://codeboxr.com"
+msgstr ""
+
+#. URI of the plugin
+msgid "https://codeboxr.com/product/cbx-google-map-for-wordpress/"
+msgstr ""
+
+#: admin/class-cbxgooglemap-admin.php:136
+#: includes/class-cbxgooglemap-helper.php:191
+#: includes/class-cbxgooglemap-helper.php:885
+#: includes/class-cbxgooglemap-helper.php:909
+#: widgets/elementor-elements/class-cbxgooglemap-elemwidget.php:165
+#: widgets/classic-widgets/views/admin.php:66
+msgid "Hybrid Map"
+msgstr ""
+
+#: includes/class-cbxgooglemap-helper.php:274
+msgid ""
+"If website link is given then market popup will show the Title as linked "
+"with this address"
+msgstr ""
+
+#: includes/class-cbxgooglemap-helper.php:287
+msgid ""
+"If you select location from google map then latitude will be picked "
+"automatically but still you can put manually"
+msgstr ""
+
+#: includes/class-cbxgooglemap-helper.php:295
+msgid ""
+"If you select location from google map then longitude will be picked "
+"automatically but still you can put manually"
+msgstr ""
+
+#: admin/class-cbxgooglemap-admin.php:197
+#: includes/class-cbxgooglemap-helper.php:244
+#: widgets/elementor-elements/class-cbxgooglemap-elemwidget.php:252
+#: widgets/vc-element/class-cbxgooglemap-wpbwidget.php:146
+msgid "Info/Popup Window"
+msgstr ""
+
+#: admin/class-cbxgooglemap-admin.php:916
+#: includes/class-cbxgooglemap-helper.php:286
+#: widgets/elementor-elements/class-cbxgooglemap-elemwidget.php:176
+#: widgets/elementor-elements/class-cbxgooglemap-elemwidget.php:178
+#: widgets/vc-element/class-cbxgooglemap-wpbwidget.php:75
+#: widgets/classic-widgets/views/admin.php:72
+msgid "Latitude"
+msgstr ""
+
+#: admin/class-cbxgooglemap-admin.php:925
+#: widgets/elementor-elements/class-cbxgooglemap-elemwidget.php:275
+#: widgets/vc-element/class-cbxgooglemap-wpbwidget.php:168
+msgid "Location Address"
+msgstr ""
+
+#: admin/class-cbxgooglemap-admin.php:917
+#: includes/class-cbxgooglemap-helper.php:294
+#: widgets/elementor-elements/class-cbxgooglemap-elemwidget.php:186
+#: widgets/elementor-elements/class-cbxgooglemap-elemwidget.php:188
+#: widgets/vc-element/class-cbxgooglemap-wpbwidget.php:84
+#: widgets/classic-widgets/views/admin.php:79
+msgid "Longitude"
+msgstr ""
+
+#: includes/class-cbxgooglemap-helper.php:212
+msgid "Map height, don't use px"
+msgstr ""
+
+#: admin/class-cbxgooglemap-admin.php:210
+#: admin/class-cbxgooglemap-admin.php:927
+#: includes/class-cbxgooglemap-helper.php:303
+#: widgets/elementor-elements/class-cbxgooglemap-elemwidget.php:298
+#: widgets/vc-element/class-cbxgooglemap-wpbwidget.php:186
+msgid "Map Icon"
+msgstr ""
+
+#: includes/class-cbxgooglemap-helper.php:280
+msgid "Map Location"
+msgstr ""
+
+#: includes/class-cbxgooglemap-helper.php:304
+msgid "Map marker custom icon"
+msgstr ""
+
+#: admin/class-cbxgooglemap-admin.php:315
+msgid "Map Parameter"
+msgstr ""
+
+#: includes/class-cbxgooglemap-helper.php:140
+msgid "Map Settings"
+msgstr ""
+
+#: admin/class-cbxgooglemap-admin.php:111
+msgid "Map Source"
+msgstr ""
+
+#: admin/class-cbxgooglemap-admin.php:130
+#: includes/class-cbxgooglemap-helper.php:185
+#: widgets/elementor-elements/class-cbxgooglemap-elemwidget.php:160
+#: widgets/vc-element/class-cbxgooglemap-wpbwidget.php:65
+msgid "Map Type"
+msgstr ""
+
+#: admin/class-cbxgooglemap-admin.php:914
+msgid "Map Type(Google Map Only)"
+msgstr ""
+
+#: widgets/classic-widgets/views/admin.php:61
+msgid "Map Type:"
+msgstr ""
+
+#: includes/class-cbxgooglemap-helper.php:206
+msgid ""
+"Map width, use % if need, don't use px as it will be automatically if no % "
+"used."
+msgstr ""
+
+#: includes/class-cbxgooglemap-helper.php:94
+#: includes/class-cbxgooglemap-helper.php:106
+msgid "Maps"
+msgstr ""
+
+#: includes/class-cbxgooglemap-helper.php:259
+msgid "Marker Heading"
+msgstr ""
+
+#: admin/class-cbxgooglemap-admin.php:170
+#: admin/class-cbxgooglemap-admin.php:921
+#: includes/class-cbxgooglemap-helper.php:218
+#: widgets/elementor-elements/class-cbxgooglemap-elemwidget.php:226
+#: widgets/vc-element/class-cbxgooglemap-wpbwidget.php:120
+#: widgets/classic-widgets/views/admin.php:106
+msgid "Mouse Scroll Wheel"
+msgstr ""
+
+#: includes/class-cbxgooglemap-helper.php:101
+msgid "Not found"
+msgstr ""
+
+#: includes/class-cbxgooglemap-helper.php:102
+msgid "Not found in Trash"
+msgstr ""
+
+#: admin/class-cbxgooglemap-admin.php:203
+#: includes/class-cbxgooglemap-helper.php:250
+#: widgets/elementor-elements/class-cbxgooglemap-elemwidget.php:256
+#: widgets/vc-element/class-cbxgooglemap-wpbwidget.php:150
+#: widgets/classic-widgets/views/admin.php:126
+msgid "On Click"
+msgstr ""
+
+#: admin/class-cbxgooglemap-admin.php:202
+#: includes/class-cbxgooglemap-helper.php:249
+#: widgets/elementor-elements/class-cbxgooglemap-elemwidget.php:255
+#: widgets/vc-element/class-cbxgooglemap-wpbwidget.php:149
+#: widgets/classic-widgets/views/admin.php:125
+msgid "Open(Default)"
+msgstr ""
+
+#: admin/class-cbxgooglemap-admin.php:116
+msgid "Openstreet Map(leafletjs)"
+msgstr ""
+
+#: templates/admin/dashboard.php:136
+msgid "Other WordPress Plugins"
+msgstr ""
+
+#: includes/class-cbxgooglemap-helper.php:93
+msgid "Parent Item:"
+msgstr ""
+
+#: includes/class-cbxgooglemap-helper.php:199
+#: includes/class-cbxgooglemap-helper.php:267
+msgid "Plain address with road no etc"
+msgstr ""
+
+#: includes/class-cbxgooglemap-helper.php:706
+msgid "Please save first to add extra information."
+msgstr ""
+
+#: admin/class-cbxgooglemap-admin.php:720
+#: admin/class-cbxgooglemap-admin.php:757
+msgid "Please Select"
+msgstr ""
+
+#: public/class-cbxgooglemap-public.php:254
+#: public/class-cbxgooglemap-public.php:283
+msgid "Please set Latitude and Longitude both to display a map."
+msgstr ""
+
+#: admin/class-cbxgooglemap-admin.php:923
+msgid "Popup Auto Display "
+msgstr ""
+
+#: admin/class-cbxgooglemap-admin.php:924
+#: widgets/elementor-elements/class-cbxgooglemap-elemwidget.php:265
+#: widgets/elementor-elements/class-cbxgooglemap-elemwidget.php:267
+#: widgets/vc-element/class-cbxgooglemap-wpbwidget.php:159
+#: widgets/classic-widgets/views/admin.php:131
+msgid "Popup Heading"
+msgstr ""
+
+#: includes/class-cbxgooglemap-helper.php:90
+msgctxt "Post Type General Name"
+msgid "Maps"
+msgstr ""
+
+#: includes/class-cbxgooglemap-helper.php:91
+msgctxt "Post Type Singular Name"
+msgid "Map"
+msgstr ""
+
+#: widgets/elementor-elements/class-cbxgooglemap-elemwidget.php:129
+#: widgets/vc-element/class-cbxgooglemap-wpbwidget.php:54
+msgid "Predefined Map"
+msgstr ""
+
+#: includes/class-cbxgooglemap-helper.php:141
+msgid "Primary Marker"
+msgstr ""
+
+#: admin/class-cbxgooglemap-admin.php:824
+msgid "Pro Support"
+msgstr ""
+
+#: templates/admin/dashboard.php:206
+msgid "Quick Support (Email)"
+msgstr ""
+
+#: templates/admin/dashboard.php:234
+msgid "Rate Our Plugin"
+msgstr ""
+
+#: templates/admin/dashboard.php:225
+msgid "Read the CBX Maps User Guide"
+msgstr ""
+
+#: admin/class-cbxgooglemap-admin.php:822
+msgid "Reviews"
+msgstr ""
+
+#: admin/class-cbxgooglemap-admin.php:134
+#: includes/class-cbxgooglemap-helper.php:189
+#: includes/class-cbxgooglemap-helper.php:883
+#: includes/class-cbxgooglemap-helper.php:907
+#: widgets/elementor-elements/class-cbxgooglemap-elemwidget.php:163
+#: widgets/classic-widgets/views/admin.php:64
+msgid "Road Map"
+msgstr ""
+
+#: admin/class-cbxgooglemap-admin.php:135
+#: includes/class-cbxgooglemap-helper.php:190
+#: includes/class-cbxgooglemap-helper.php:884
+#: includes/class-cbxgooglemap-helper.php:908
+#: widgets/elementor-elements/class-cbxgooglemap-elemwidget.php:164
+#: widgets/classic-widgets/views/admin.php:65
+msgid "Satellite Map"
+msgstr ""
+
+#: includes/class-cbxgooglemap-settings.php:719
+#: templates/admin/settings-display.php:35
+msgid "Save Settings"
+msgstr ""
+
+#: admin/class-cbxgooglemap-admin.php:724
+msgid "Search Address"
+msgstr ""
+
+#: includes/class-cbxgooglemap-helper.php:100
+msgid "Search map"
+msgstr ""
+
+#: admin/class-cbxgooglemap-admin.php:928
+msgid "Select image"
+msgstr ""
+
+#: admin/class-cbxgooglemap-admin.php:879
+#: admin/class-cbxgooglemap-admin.php:909
+msgid "Select Map"
+msgstr ""
+
+#: admin/class-cbxgooglemap-admin.php:283
+msgid "Setting"
+msgstr ""
+
+#: admin/class-cbxgooglemap-admin.php:805
+msgid "Settings"
+msgstr ""
+
+#: admin/class-cbxgooglemap-admin.php:319
+msgid "Shortcode"
+msgstr ""
+
+#: admin/class-cbxgooglemap-admin.php:233
+msgid "Shortcode & Demo"
+msgstr ""
+
+#: admin/class-cbxgooglemap-admin.php:234
+msgid ""
+"Shortcode and demo based on default setting, please save once to check "
+"change."
+msgstr ""
+
+#: admin/class-cbxgooglemap-admin.php:183
+#: includes/class-cbxgooglemap-helper.php:231
+msgid "Show Info window"
+msgstr ""
+
+#: admin/class-cbxgooglemap-admin.php:184
+#: includes/class-cbxgooglemap-helper.php:232
+msgid "Show information on click of marker"
+msgstr ""
+
+#: admin/class-cbxgooglemap-admin.php:922
+#: widgets/elementor-elements/class-cbxgooglemap-elemwidget.php:239
+#: widgets/vc-element/class-cbxgooglemap-wpbwidget.php:133
+#: widgets/classic-widgets/views/admin.php:114
+#: widgets/classic-widgets/views/admin.php:122
+msgid "Show Popup"
+msgstr ""
+
+#: admin/class-cbxgooglemap-admin.php:223
+msgid "Show/Default"
+msgstr ""
+
+#: includes/class-cbxgooglemap-helper.php:107
+msgid "Simple map using google map and openstreet map."
+msgstr ""
+
+#: admin/class-cbxgooglemap-admin.php:137
+#: includes/class-cbxgooglemap-helper.php:192
+#: includes/class-cbxgooglemap-helper.php:886
+#: includes/class-cbxgooglemap-helper.php:910
+#: widgets/elementor-elements/class-cbxgooglemap-elemwidget.php:166
+#: widgets/classic-widgets/views/admin.php:67
+msgid "Terrain Map"
+msgstr ""
+
+#: includes/class-cbxgooglemap.php:316
+#, php-format
+msgid ""
+"Thanks for installing/deactivating <strong>CBX Map for Google Map & "
+"OpenStreetMap</strong> V%s - Codeboxr Team"
+msgstr ""
+
+#: includes/class-cbxgooglemap.php:334
+#, php-format
+msgid ""
+"Thanks for upgrading <strong>CBX Map for Google Map & OpenStreetMap</strong> "
+"V%s , enjoy the new features and bug fixes - Codeboxr Team"
+msgstr ""
+
+#: widgets/classic-widgets/views/admin.php:23
+msgid "Title"
+msgstr ""
+
+#: admin/class-cbxgooglemap-admin.php:823
+msgid "Try Pro"
+msgstr ""
+
+#: includes/class-cbxgooglemap-helper.php:446
+msgid "Type full address and enter to find the lat, lon of the location"
+msgstr ""
+
+#: includes/class-cbxgooglemap-helper.php:281
+msgid "Type location and select from google map auto suggest."
+msgstr ""
+
+#: includes/class-cbxgooglemap-helper.php:99
+msgid "Update map"
+msgstr ""
+
+#: includes/class-cbxgooglemap-helper.php:95
+msgid "View Map"
+msgstr ""
+
+#: widgets/elementor-elements/class-cbxgooglemap-elemwidget.php:287
+msgid "Website"
+msgstr ""
+
+#: includes/class-cbxgooglemap-helper.php:273
+msgid "Website Link"
+msgstr ""
+
+#: admin/class-cbxgooglemap-admin.php:926
+#: widgets/elementor-elements/class-cbxgooglemap-elemwidget.php:285
+#: widgets/vc-element/class-cbxgooglemap-wpbwidget.php:177
+#: widgets/classic-widgets/views/admin.php:147
+msgid "Website url"
+msgstr ""
+
+#: admin/class-cbxgooglemap-admin.php:154
+#: includes/class-cbxgooglemap-helper.php:205
+#: widgets/elementor-elements/class-cbxgooglemap-elemwidget.php:198
+msgid "Width"
+msgstr ""
+
+#: widgets/elementor-elements/class-cbxgooglemap-elemwidget.php:196
+#: widgets/vc-element/class-cbxgooglemap-wpbwidget.php:93
+#: widgets/classic-widgets/views/admin.php:86
+msgid "Width(Numeric or with %)"
+msgstr ""
+
+#: admin/class-cbxgooglemap-admin.php:918
+msgid "Width(Numeric, % allowed)"
+msgstr ""
+
+#: admin/class-cbxgooglemap-admin.php:721
+#: admin/class-cbxgooglemap-admin.php:758
+msgid "Window Title"
+msgstr ""
+
+#: widgets/elementor-elements/class-cbxgooglemap-elemwidget.php:218
+msgid "Zoom"
+msgstr ""
+
+#: admin/class-cbxgooglemap-admin.php:920
+msgid "zoom"
+msgstr ""
+
+#: admin/class-cbxgooglemap-admin.php:144
+#: includes/class-cbxgooglemap-helper.php:198
+msgid "Zoom Level"
+msgstr ""
+
+#: widgets/elementor-elements/class-cbxgooglemap-elemwidget.php:216
+#: widgets/vc-element/class-cbxgooglemap-wpbwidget.php:111
+#: widgets/classic-widgets/views/admin.php:100
+msgid "Zoom(Numeric Value)"
+msgstr ""

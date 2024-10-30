@@ -1,0 +1,175 @@
+/** WordPress 3.8 Fix **/
+.form-table th { padding: 20px 10px; }
+#wpbody-content .metabox-holder { padding-top: 5px; }
+.chosen-container-single, .chosen-container-multi{
+    min-width: 244px !important;
+}
+#poststuff h2.nav-tab-wrapper{
+    margin-bottom: 0px !important;
+    padding-bottom: 0px;;
+}
+.nav-tab-active, .nav-tab-active:hover{
+    background: #0085ba !important;
+}
+
+.nav-tab-active, .nav-tab-active:focus, .nav-tab-active:focus:active, .nav-tab-active:hover{
+    background: #0085ba;
+    border-bottom: 1px solid #0085ba !important;
+    color: #fff !important;
+}
+
+.multicheck_fields{
+
+}
+
+.multicheck_fields .multicheck_field{}
+.multicheck_fields .multicheck_field label{
+    margin-top: 0px !important;
+}
+.multicheck_fields .multicheck_field .multicheck_field_handle{
+    margin-right: 20px;
+    cursor: pointer;
+}
+.multicheck_fields .multicheck_field_placeholder{
+    outline: 1px dashed #000;
+    height: 30px;
+}
+
+.select2-container{
+    width: 100% !important;
+}
+
+.cbcurrencyconverter_demo_copy{
+    width: 100% !important;
+}
+.regular-text.cbcurrencyconverter_demo_copy{}
+
+.cbcurrencyconverter_demo_copy .description{
+    width: 100% !important;
+    display: block;
+    margin-left: 0px;
+}
+
+.shortcode_demo_copy{
+    text-align: right;
+    margin-bottom: -10px !important;
+    z-index: 1;
+
+}
+.shortcode_demo_btn{
+    background: #fff;
+    color: #000;
+    border: 1px solid #39A96B;
+    border-radius: 5px;
+    font-size: 14px;
+    line-height: 1.3;
+    padding: 3px 10px;
+    text-decoration: none;
+    float: right;
+}
+
+.shortcode_demo_btn:hover,
+.shortcode_demo_btn:focus{
+    color: #39A96B;
+    box-shadow: none;
+    outline: none;
+}
+
+.shortcode_demo_btn.copy_success{
+    background: #5eba7d;
+    border: 1px solid #5eba7d;
+    color: #fff;
+}
+
+.shortcode_demo_btn.copy_fail{
+    background:  #39A96B;
+    color: #fff;
+}
+
+.shortcode_demo_wrap{
+    margin-top: 30px;
+    clear: both;
+}
+
+.regular-text{
+    width: 100%;
+}
+
+@media (max-width: 767px) {
+    .shortcode_demo_wrap{
+        width: 90%;
+    }
+}
+
+@media (max-width: 480px) {
+    .shortcode_demo_wrap{
+        width: 100%;
+    }
+}
+
+.cbxgooglemapmeta_input_file_wrap {
+    display: flex;
+    width: 100%;
+    .cbxgooglemapmeta_marker_preview {
+        margin-left: 5px;
+        margin-right: 5px;
+        width: 30px;
+        height: 30px;
+        background-size: cover;
+        background-position: center;
+    }
+    .cbxgooglemapmeta_filepicker_btn {
+        //margin-left: 5px;
+        &.cbxgooglemapmeta_filepicked {
+            border-top-right-radius: 0;
+            border-end-end-radius: 0;
+        }
+        &.cbxgooglemapmeta_left_space {
+            margin-left: 5px;
+        }
+    }
+    .cbxgooglemapmeta_marker {
+        position: relative;
+        width: 30px;
+        height: 30px;
+        margin-left: 5px;
+        margin-right: 5px;
+        border-radius: 5px;
+        background-size: cover;
+        background-position: center;
+        background-color: transparent;
+
+    }
+    .cbxgooglemapmeta_marker_hide,
+    .cbxgooglemapmeta_trash_hide {
+        display: none !important;
+    }
+    .cbxgooglemapmeta_trash {
+        font-size: 30px;
+        cursor: pointer;
+        color: #FFFFFF;
+        background: #FF0000;
+        height: 30px;
+        width: 30px;
+        display: flex;
+        justify-content: center;
+        align-items: center;
+        border-top-right-radius: 3px;
+        border-end-end-radius: 3px;
+        box-sizing: border-box;
+        border: 1px solid #ff0000;
+        border-left: none;
+        &:hover {
+            color: #FF0000;
+            background: #FFFFFF;
+        }
+    }
+}
+
+// inline fields
+.form-table td fieldset .cbxgooglemap-settings-label-radio-inline {
+    margin-right: 20px !important;
+    &.label-margin-none {
+        margin-right: 0 !important;
+    }
+}

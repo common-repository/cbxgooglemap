@@ -1,0 +1,145 @@
+.cbxgooglemap_clear{
+	clear: both;
+}
+
+
+.form-table th { padding: 20px 10px; }
+#wpbody-content .metabox-holder { padding-top: 5px; }
+.chosen-container-single, .chosen-container-multi{
+	min-width: 244px !important;
+}
+#poststuff h2.nav-tab-wrapper, h2.nav-tab-wrapper{
+	margin-bottom: 0px !important;
+	padding-bottom: 0px;;
+}
+.nav-tab-active, .nav-tab-active:hover{
+	background: #0085ba !important;
+}
+
+.nav-tab-active, .nav-tab-active:focus, .nav-tab-active:focus:active, .nav-tab-active:hover{
+	background: #0085ba;
+	border-bottom: 1px solid #0085ba !important;
+	color: #fff !important;
+}
+
+.map_canvas{
+	width: 100%; height: 400px;
+}
+
+/*Shortcode copy*/
+.cbxgooglemapshortcodecopytrigger{
+	margin-top: 5px;
+	margin-left: 4px;
+	float: left;
+	display: inline-block;
+}
+.cbxgooglemapshortcode, .cbxgooglemapshortcode-text{
+	background: #f7f7f7;
+	border: 1px solid #ccc !important;
+	padding: 3px 6px !important;
+	float: left; display: inline-block;
+	/*max-width: 125px;*/
+}
+
+.cbxgooglemapshortcode-text{
+	/*max-width: 125px;*/
+}
+.cbxgooglemapshortcode-copy-image {
+	display: inline-block;
+	width: 15px;
+	height: 15px;
+	margin-top: 2px;
+	&:hover {
+		cursor: pointer;
+	}
+}
+
+#copied-text {
+	display: inline-block;
+	margin-left: 5px;
+	margin-top: 5px;
+	color: #39A96B;
+}
+/*Shortcode end*/
+
+@import "partials/jqcbxgoglemap";
+
+
+
+
+
+
+
+.leaflet-popup-close-button{
+	-moz-box-shadow:    none !important;
+	-webkit-box-shadow: none !important;
+	box-shadow:        none !important;
+}
+
+.select2-container{
+	width: 100% !important;
+}
+
+
+.cbxgooglemapmeta_input_file_wrap {
+	display: flex;
+	width: 100%;
+	.cbxgooglemapmeta_marker_preview {
+		margin-left: 5px;
+		width: 30px;
+		height: 30px;
+	}
+	.cbxgooglemapmeta_filepicker_btn {
+		//margin-left: 5px;
+		&.cbxgooglemapmeta_filepicked {
+			border-top-right-radius: 0;
+			border-end-end-radius: 0;
+		}
+		&.cbxgooglemapmeta_left_space {
+			margin-left: 5px;
+		}
+	}
+	.cbxgooglemapmeta_marker {
+		position: relative;
+		width: 30px;
+		height: 30px;
+		margin-left: 5px;
+		margin-right: 5px;
+		border-radius: 5px;
+		background-size: cover;
+		background-position: center;
+		background-color: transparent;
+
+	}
+	.cbxgooglemapmeta_marker_hide,
+	.cbxgooglemapmeta_trash_hide {
+		display: none !important;
+	}
+	.cbxgooglemapmeta_trash {
+		font-size: 30px;
+		cursor: pointer;
+		color: #FFFFFF;
+		background: #FF0000;
+		height: 30px;
+		width: 30px;
+		display: flex;
+		justify-content: center;
+		align-items: center;
+		border-top-right-radius: 3px;
+		border-end-end-radius: 3px;
+		box-sizing: border-box;
+		border: 1px solid #ff0000;
+		border-left: none;
+		&:hover {
+			color: #FF0000;
+			background: #FFFFFF;
+		}
+	}
+}
+
+.form-table td fieldset label.cbxgooglemap-metabox-label-radio-inline {
+	margin-right: 30px !important;
+	&.label-margin-none {
+		margin-right: 0 !important;
+	}
+}

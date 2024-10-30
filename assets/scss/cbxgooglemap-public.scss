@@ -1,0 +1,32 @@
+.cbxgooglemap_clear{
+	clear: both;
+}
+.cbxgooglemap_wrapper{
+	.cbxgooglemap_embed{
+		width: 100%;
+		height: 300px;
+	}
+}
+
+
+
+@import "partials/jqcbxgoglemap";
+
+.leaflet-popup-close-button{
+	-moz-box-shadow:    none !important;
+	-webkit-box-shadow: none !important;
+	box-shadow:        none !important;
+}
+
+.cbxgooglemap_wrapper_hideleaflet{
+	.leaflet-control-attribution.leaflet-control{
+		display: none;
+	}
+}
+// Astra theme specific css fix
+.cbxgooglemap_wrapper {
+	.leaflet-touch .leaflet-bar a {
+		text-decoration: none;
+	}
+}
+// End Astra theme specific css fix
